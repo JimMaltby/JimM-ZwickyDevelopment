@@ -41,7 +41,10 @@ Screen shot of first table
 
 Screen shot of final table and options e.g. PRINT
 
+#Project parked
+I diverted effort to other projects so haven't finished this. My intention is to build something in Py/ R,as VBA is slow and limited.
 
+For other better projects, see Markus Voge's https://github.com/sgrubsmyon/morphr for an "An R implementation of a Morphological Analysis tool", and Johannes Buchner's https://github.com/JohannesBuchner/zwicky-morphological-analysis Py implementation and webiste: https://johannesbuchner.github.io/zwicky-morphological-analysis/.
 
 #Contact info
 This package is authored and maintained by Jim Maltby (maltbyjim@gmail.com). Feel free to contact me if you want any advice or help.
